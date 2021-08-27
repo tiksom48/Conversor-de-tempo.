@@ -1,0 +1,13 @@
+D:\trabalhos C#\Conversor de tempo\Conversor de tempo\bin\Debug\netcoreapp3.1\Conversor de tempo.exe
+D:\trabalhos C#\Conversor de tempo\Conversor de tempo\bin\Debug\netcoreapp3.1\Conversor de tempo.deps.json
+D:\trabalhos C#\Conversor de tempo\Conversor de tempo\bin\Debug\netcoreapp3.1\Conversor de tempo.runtimeconfig.json
+D:\trabalhos C#\Conversor de tempo\Conversor de tempo\bin\Debug\netcoreapp3.1\Conversor de tempo.runtimeconfig.dev.json
+D:\trabalhos C#\Conversor de tempo\Conversor de tempo\bin\Debug\netcoreapp3.1\Conversor de tempo.dll
+D:\trabalhos C#\Conversor de tempo\Conversor de tempo\bin\Debug\netcoreapp3.1\Conversor de tempo.pdb
+D:\trabalhos C#\Conversor de tempo\Conversor de tempo\obj\Debug\netcoreapp3.1\Conversor de tempo.csproj.AssemblyReference.cache
+D:\trabalhos C#\Conversor de tempo\Conversor de tempo\obj\Debug\netcoreapp3.1\Conversor de tempo.AssemblyInfoInputs.cache
+D:\trabalhos C#\Conversor de tempo\Conversor de tempo\obj\Debug\netcoreapp3.1\Conversor de tempo.AssemblyInfo.cs
+D:\trabalhos C#\Conversor de tempo\Conversor de tempo\obj\Debug\netcoreapp3.1\Conversor de tempo.csproj.CoreCompileInputs.cache
+D:\trabalhos C#\Conversor de tempo\Conversor de tempo\obj\Debug\netcoreapp3.1\Conversor de tempo.dll
+D:\trabalhos C#\Conversor de tempo\Conversor de tempo\obj\Debug\netcoreapp3.1\Conversor de tempo.pdb
+D:\trabalhos C#\Conversor de tempo\Conversor de tempo\obj\Debug\netcoreapp3.1\Conversor de tempo.genruntimeconfig.cache
